@@ -1,0 +1,9 @@
+../Core/Src/TEST_TOOL.c:19:5:formatoValido	24	static
+../Core/Src/TEST_TOOL.c:38:5:numArgumentos	32	static
+../Core/Src/TEST_TOOL.c:51:16:saveArguments	280	static
+../Core/Src/TEST_TOOL.c:81:5:comandoParaTestTool	216	static
+../Core/Src/TEST_TOOL.c:89:5:segundoArgumento	216	static
+../Core/Src/TEST_TOOL.c:101:5:tercerArgumento	216	static
+../Core/Src/TEST_TOOL.c:109:7:cuartoArgumento	224	static
+../Core/Src/TEST_TOOL.c:116:10:calculate_voltage_register	24	static
+../Core/Src/TEST_TOOL.c:121:6:dac_set_voltage	24	static
